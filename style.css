@@ -1,0 +1,67 @@
+body {
+    background-color: rgb(71, 114, 255);
+}
+
+.container {
+    margin: 125px 0 0 135px;
+    
+}
+
+.row {
+    width: 80%;
+    height: 70px;
+}
+
+.one {
+    margin: 15px 0 0 23px;
+}
+
+.five {
+    margin-top: 15px;
+}
+
+.two {
+    margin: 15px 0 0 25px;
+}
+
+.three {
+    margin: 15px 0 0 60px;
+}
+
+.four {
+    margin: 15px 0 0 0;
+}
+button {
+    width:70px ;
+    height: 70px;
+    border: none;
+    background: rgb(71, 114, 255);
+    border-radius: 20%;
+    box-shadow: 5px 5px 10px #474343, -5px -5px 10px #61abff;
+    font-size: 30px;
+    margin-left: 10px;
+    outline: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    cursor:pointer;
+}
+
+button:hover {
+    transform: scale(1.1);
+}
+
+.st-btn, .ctr-btn {
+    width: 90px;
+    border-radius: 10px;
+}
+
+.emj-btn {
+    width: 50px;
+}
+.space-btn {
+    width: 400px;
+    border-radius: 10px;
+}
+.ent-btn {
+    width: 180px;
+    border-radius: 10px;
+}
